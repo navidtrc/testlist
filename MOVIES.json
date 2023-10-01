@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "The Secret of Serendipity",
+    "rate": 8.2,
+    "description": "A mysterious adventure unfolds in a small coastal town."
+  },
+  {
+    "id": 2,
+    "name": "Eternal Echoes",
+    "rate": 7.9,
+    "description": "A love story that transcends time and space."
+  },
+  {
+    "id": 3,
+    "name": "Beyond the Horizon",
+    "rate": 6.5,
+    "description": "Exploring the uncharted territories of the cosmos."
+  },
+  {
+    "id": 4,
+    "name": "City of Whispers",
+    "rate": 8.8,
+    "description": "A gripping crime drama set in the heart of a metropolis."
+  },
+  {
+    "id": 5,
+    "name": "The Enigmatic Code",
+    "rate": 7.0,
+    "description": "Cracking a code that could change the course of history."
+  },
+  {
+    "id": 6,
+    "name": "Lost in Time",
+    "rate": 8.1,
+    "description": "A time-traveling adventure filled with unexpected twists."
+  },
+  {
+    "id": 7,
+    "name": "Silent Wilderness",
+    "rate": 6.3,
+    "description": "Surviving the harsh challenges of the wilderness."
+  },
+  {
+    "id": 8,
+    "name": "A Song of Memories",
+    "rate": 7.5,
+    "description": "Music, love, and nostalgia intertwine in this heartwarming tale."
+  },
+  {
+    "id": 9,
+    "name": "The Art of Deception",
+    "rate": 7.7,
+    "description": "A masterful con artist and the ultimate heist."
+  },
+  {
+    "id": 10,
+    "name": "The Quantum Paradox",
+    "rate": 8.4,
+    "description": "Exploring the mind-bending world of quantum physics."
+  }
+]
